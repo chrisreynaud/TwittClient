@@ -71,6 +71,7 @@ public class Client {
 			new Client(operation, param);
 		} else {
 			System.out.println("Usage: java Client retreive/account/followers [account]\n");
+			System.out.println("Enjoy!\n");
 			System.exit(0);
 		}
 	}
