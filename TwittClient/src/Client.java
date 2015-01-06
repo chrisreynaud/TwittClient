@@ -9,6 +9,15 @@ import java.net.UnknownHostException;
  * Client class: this class is in charge to contact Tweets server via socket,
  * to send request and to display response
  * 
+ * Prerequisites:  start Tweets server before
+ * 
+ * Start client:
+ * - go to TwittClient/bin directory
+ * - to display help : java Client
+ * 
+ * Usage: retreive/account/followers [account]
+ * 
+ * 
  * @author creynaud
  *
  */
