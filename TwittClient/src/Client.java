@@ -17,7 +17,6 @@ import java.net.UnknownHostException;
  * 
  * Usage: retreive/account/followers [account]
  * 
- * 
  * @author creynaud
  *
  */
